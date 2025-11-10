@@ -6,9 +6,9 @@ body {
 
 @media (max-width: 768px) {
   #hero1 img {
-    height: 100vh;   
+    height: 30vh;   
   #hero2 img {
-    height: 100vh; 
+    height: 30vh; 
   }
 }
 
@@ -79,6 +79,7 @@ body {
 footer {
   font-size: 0.9rem;
 }
+
 
 
 
