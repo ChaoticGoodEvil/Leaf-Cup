@@ -5,8 +5,10 @@ body {
 }
 
 @media (max-width: 768px) {
-  #heroCarousel img {
-    height: 100vh;         /* растягиваем на всю высоту экрана */
+  #hero1 img {
+    height: 100vh;   
+  #hero2 img {
+    height: 100vh; 
   }
 }
 
@@ -77,6 +79,7 @@ body {
 footer {
   font-size: 0.9rem;
 }
+
 
 
 
