@@ -2,14 +2,8 @@ body {
   font-family: 'Montserrat', sans-serif;
   color: #333;
   background-color: #FFF6E9;
-  padding-top: 90px;
 }
 
-@media (max-width: 768px) {
-  body {
-    padding-top: 110px;
-  }
-}
 .bg-white, .bg-light {
   background-color: transparent !important;
 }
@@ -77,4 +71,5 @@ body {
 footer {
   font-size: 0.9rem;
 }
+
 
